@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My SupDeco</string>
+    <string name="connection">Connection</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="email">supdeco@supdeco.sn</string>
+    <string name="presentation">Presentation</string>
+    <string name="formation">Formation</string>
+    <string name="marks">Marks</string>
+    <string name="university">University</string>
+    <string name="back">Back</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">O Level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="save">Save</string>
+    <string name="error_fields">Required field</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_parameters">Error parameters</string>
+    <string name="error_inscription">Inscription error</string>
+    <string name="welcome">Welcome</string>
+    <string name="success">Success</string>
+    <string name="waiting">Please wait</string>
+</resources>
